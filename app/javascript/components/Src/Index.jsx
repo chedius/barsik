@@ -1,9 +1,9 @@
 import React from "react";
-import "./Index.scss";
+//import "./Index.scss";
 import { BrowserRouter, Route, Switch} from 'react-router-dom';
 
 const Index = props => {
-return <div>blabla</div>
+return <div>blablacdsvcsdvsddscsdcsdcdsvjhvjnhdfjkvnjkdfvnjksdncjksdnvfjknfvksndkdvnksdncns</div>
 }
 
 export default Index;
